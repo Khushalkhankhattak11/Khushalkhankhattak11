@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from Pakistan</h3>
 
 <img algin="right" alt="coding" width="400" 
-scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+scr="https://tse4.mm.bing.net/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&pid=Api&P=0&h=220">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushalkhan181125" alt="khushalkhan181125" /></a> </p>
 
